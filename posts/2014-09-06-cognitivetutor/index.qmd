@@ -11,7 +11,7 @@ date: 06-09-2014 # checked
 categories: [Cognition, Process Data, R, Oracle, Minerva, Cygwin, NFS, IES] # self-defined categories
 # citation:  # if writing own work, you can include a citation at the bottom
     # url: https://cassondragriger.github.io/posts/2013-31-10-cognitive tutor/ 
-image: simstudent2.png
+image: carnegiemellonlogo.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 #

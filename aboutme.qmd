@@ -1,0 +1,14 @@
+---
+title: "About Me"
+---
+
+```{=html}
+<!-- 
+# view webpage: browseURL("docs/index.html")
+-->
+```
+I grew up in Dingmans Ferry, a rural town nestled in the Poconos that is known for its hiking and scenic waterfalls. As a child, I was always outside taking in my natural surroundings and identifying patterns to solve my imaginary problems in play.
+
+Fast forward to 2013, I began a career in solving real world problems with pattern detection of cognitive agents used for math education in Pittsburgh. After conferring my masters in child psychology, I naturally transitioned to a Ph.D. in school psychology. While practicing, I noticed critical inefficiencies and inequities of modern psychoeducational measurement. To pursue this research with aligned support, I connected with Jonathan Templin, Ph.D., a globally-respected scholar in quantitative methods for measurement, and consequently transferred to Iowa.
+
+Along the way, I’ve held side careers in mixology and woodworking, which have allowed me to foster closer connections with my communities and express my creativity. On the weekends in Pittsburgh, you could find me either behind the bar mixing up classic cocktails or in the urban makerspace teaching a charcuterie board class. Alongside my studies in Iowa, I continue to woodwork with friends and try out DIY home renovations.
