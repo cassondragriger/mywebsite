@@ -1,0 +1,52 @@
+---
+title: "Needs Assessment"
+description: "Auditing doctoral program for diversity and inclusivity practices and policies"
+author:
+  - name: Cassondra Griger
+    url: https://cassondragriger.github.io
+    orcid: 0009-0002-2133-9292
+    affiliation: Duquesne University
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 12-13-2020 # checked
+categories: [DEI, Diversity, Equity, Inclusivity, Policy, R] # self-defined categories
+# citation:  # if writing own work, you can include a citation at the bottom
+    # url: https://cassondragriger.github.io/posts/2013-31-10-cognitive tutor/ 
+image: duquesnelogo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+#
+
+# https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/
+---
+
+### *Doctorate Program Needs Assessment*
+
+#### Wuenschell, E., Jancart, C., Ozanich, A., Griger, C., & Crothers, L. (2020)
+
+The Duquesne University School Psychology Program invited their graduate students to assess the program’s diversity and inclusivity practices and policies. As the demographic characteristics of the university’s student population becomes more diverse, secondary educational institutions accordingly must adjust their curricula, practices, and policies. Through this project, we disseminated a survey to Duquesne School Psychology stakeholders in order to gain information about their opinions on current practices and recommendations for future changes to the program’s policies and procedures. The survey respondents indicated that the current practices and policies are not consistently implemented across the program. The data indicated that the inclusion of multicultural faculty and students was a top priority, compared to other recommendations. Qualitative responses prioritized communication, data-based decision makings, and professional development. Similarly, the focus group discussed communication issues, along with other potential adjustments to policy. Recommendations for changes to retention and recruitment procedures of diverse faculty and students are discussed. Potential obstacles, including responsibility, practicality, longevity and evaluation of success are also reviewed as a commentary on the nature of this issue and tendency for issues to fade over time.
+
+Based on the data collected, the following recommendations are suggested:
+
+-   Establish progress monitoring tools for use in a yearly review of diversity and inclusivity goals
+
+-   Develop a diversity plan that is a productive, strategic start to ensuring that social justice is a priority in our values and practices
+
+-   Adapt the recruitment and retention plan by offering flexible programming for students to receive additional support if they are unable to meet program admission criteria
+
+-   Weigh personal statements, letters of recommendations, and faculty interviews as a higher priority in admission decisions, and de-prioritize Graduate Record Examination (GRE) scores
+
+-   Concentrate on hiring adjunct professors who are actively practicing in the field of school psychology, as faculty
+
+-   Incorporate social justice into the school psychology curriculum by having difficult conversations, additional readings, and being involved in the surrounding communities
+
+-   Increase community outreach events for all students, staff, and faculty
+
+-   Continue faculty education by engagement in ongoing professional development; promoting all faculty having an active, equal role to ensure investment and mutual education regarding specific areas of interest
+
+-   Increase faculty’s knowledge of financial resources and support for students
+
+-   Highlight alumni successes, increase networking opportunities for students, and increase communication from the program with alumni
+
+-   Create a diversity plan and a council of students, faculty, and staff to execute an ongoing assessment of recruitment practices, admissions processes, and curricula
+
+-   Connect students with BIPOC faculty within the university, focusing on cultivating cultural, spiritual, and academic connections. This type of mentorship program would feature face-to-face meetings, research and writing support, and professional development

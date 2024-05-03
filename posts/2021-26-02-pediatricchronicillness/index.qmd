@@ -1,0 +1,28 @@
+---
+title: "Pediatric Chronic Illness"
+description: "What are the neuropsychoeducational domains for which performance differences are present and in turn be considered suspected areas of disability?"
+author:
+  - name: Cassondra Griger
+    url: https://cassondragriger.github.io
+    orcid: 0009-0002-2133-9292
+    affiliation: Duquesne University
+    # affiliation-url: https://ucsb-meds.github.io/ 
+# date: 02-26-2021 # checked
+categories: [School Psychology, Neuropsychology, Psychoeducational, IDEA, OHI] # self-defined categories
+# citation:  # if writing own work, you can include a citation at the bottom
+    # url: https://cassondragriger.github.io/posts/2013-31-10-cognitive tutor/ 
+image: duquesnelogo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+#
+
+# https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/
+---
+
+### Mapping of Pediatric Chronic Illness Sequelae to Inform Evaluation Planning
+
+#### Benno, M. T., Griger, C., Tracy, B., Nayyar, A., Conaway, R. B., Franklin, K., & Schmitt, A. J. (2021)
+
+Pediatric chronic illnesses are characterized as conditions that last one year or more, require continuous medical intervention, and have implications for the overall functioning, including neuropsychoeducational functioning, of a child. Students with chronic illnesses are at risk for compromised cognitive and physical functioning, resulting in a wide range of academic, emotional, behavioral, and daily living difficulties. Due to the psychoeducational challenges that face students with pediatric conditions, eligibility for special education services under the category of other health impairment (OHI) must be considered. Establishing if a student with a chronic illness qualifies for special education services requires the learner to be evaluated in "all areas of suspected disability" (IDEA, 2004). School psychologists must therefore be prepared to develop comprehensive evaluation plans that consider specific referral questions posed by parents and educators and explore the known neuropsychoeducational sequelae of particular pediatric conditions. The purpose of this study was to support school psychologist evaluation planning by identifying pediatric conditions commonly encountered in the educational setting and then adopting a school neuropsychological assessment approach to investigate the neuropsychoeducational domains for which "limited" performance at home, at school, and in the community may be expected. In turn, these might become targets of assessment within a comprehensive evaluation plan. In other words, this study asks: for pediatric chronic health conditions commonly encountered by school psychologists, what are the neuropsychoeducational domains for which performance differences are present and in turn be considered suspected areas of disability?
+
+![](Communique October (2021).pdf){width="100%" height="100%" style="min-height:100vh;"}

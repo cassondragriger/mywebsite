@@ -1,0 +1,28 @@
+---
+title: "ADHD & Sports Concussion"
+description: "Revealing differences in the number of diagnosed and nondisclosed sport-related concussions and reasons why suspected concussive injuries were not reported"
+author:
+  - name: Cassondra Griger
+    url: https://cassondragriger.github.io
+    orcid: 0009-0002-2133-9292
+    affiliation: Duquesne University
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 02-26-2021 # checked
+categories: [ADHD, OHI] # self-defined categories
+# citation:  # if writing own work, you can include a citation at the bottom
+    # url: https://cassondragriger.github.io/posts/2013-31-10-cognitive tutor/ 
+image: duquesnelogo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+#
+
+# https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/
+---
+
+### Diagnosed and Nondisclosed Sport-Related Concussion: An Exploratory Comparison Study by ADHD Status in Collegiate Athletes
+
+#### Beidler, E., Schmitt, A.J., Matta, M., & Griger, C. (2022)
+
+To determine if ADHD status in collegiate athletes was associated with differences in the number of diagnosed and nondisclosed sport-related concussions, and reasons why suspected concussive injuries were not reported. Method: A cross-sectional survey was completed by 858 collegiate athletes (65 with ADHD; 793 without ADHD). The survey included self-report items regarding ADHD status and histories of diagnosed and nondisclosed sport-related concussions. Groups were matched for gender, age, and sport with a ratio of one participant with ADHD to four without ADHD. Results: Collegiate athletes with ADHD reported significantly more diagnosed sport-related concussions and were more likely to have a history of diagnosis compared to those without ADHD. There were no significant differences between groups regarding sport-related concussion nondisclosure history. Conclusion: Collegiate athletes with ADHD have an increased prevalence rate of diagnosed sport-related concussions compared to those without ADHD; however, this developmental disorder may not influence injury nondisclosure decisions.
+
+![](Beidler, Schmitt, Matta, & Griger (2022).pdf){width="100%" height="100%" style="min-height:100vh;"}

@@ -1,19 +1,20 @@
 ---
-title: "About Me"
+title: ""
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: solana
+  image: img/headshot3_Griger.jpg
 ---
 
-:::{#me}
+```{=html}
+<!-- 
+# view webpage: browseURL("docs/index.html")
 
-## Goals
+# All blog posts are compiled with knitr R markdown using this script. You can find the reproducible sources of each blog post here.
+-->
+```
+Cass is a Ph.D. Candidate in the Educational Measurement & Statistics program at the University of Iowa. Her research passions lie in 1) investigating risk indicators of cognitive, social, and emotional functioning in elementary-aged youth through assessment, 2) psychometric algorithm efficiency, and 3) translating science for our communities to understand, apply, and get involved in.
 
-## Education
+With over a decade in empirical and practical experience on adversities and abnormalities influencing child development, she engages with education stakeholders and the science community to explore the ways in which our youth can be accurately represented through assessment while minimizing discomfort, invasiveness, bias, and fatigue.
 
-## Experience
-
-:::
-
-Thanks for checking out my web site!
+Cass is skilled in applications of statistics and modeling, communicating data via visualizations, and consulting on data science preprocessing techniques. She is especially interested in conversations regarding assessment literacy, education policy, equitable testing, and construct alignment.

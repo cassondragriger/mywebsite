@@ -1,0 +1,26 @@
+---
+title: "Latent Variable Modeling & Missing Data"
+description: ""
+author:
+  - name: Cassondra Griger
+    url: https://cassondragriger.github.io
+    orcid: 0009-0002-2133-9292
+    affiliation: University of Iowa
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 12-13-2020
+categories: [DEI, Diversity, Equity, Inclusivity, Policy, R] # self-defined categories
+# citation:  # if writing own work, you can include a citation at the bottom
+    # url: https://cassondragriger.github.io/posts/2013-31-10-cognitive tutor/ 
+image: iowalogo.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+#
+
+# https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/
+---
+
+### *Title*
+
+#### Authors
+
+\[text\]
