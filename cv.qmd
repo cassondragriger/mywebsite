@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+<!-- view webpage: browseURL("docs/index.html") -->
+
+![](GrigerCassondra_CV.pdf){width="100%" height="100%" style="min-height:100vh;"}
