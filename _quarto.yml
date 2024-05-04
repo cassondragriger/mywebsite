@@ -4,6 +4,10 @@ project:
   
 website:
   title: "Cassondra Griger"
+  # image: "insert title image.png"
+  # favicon: "insert icon.png"
+  site-url: https://www.cassondragriger.com/
+  repo-url: https://github.com/cassondragriger/mywebsite
   navbar:
     left:
       - href: aboutme.qmd
