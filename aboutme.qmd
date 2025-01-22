@@ -7,6 +7,7 @@ title: "About Me"
 # view webpage: browseURL("docs/index.html")
 -->
 ```
+
 I grew up in Dingmans Ferry, a rural town nestled in the Poconos that is known for its hiking and scenic waterfalls. As a child, I was always outside taking in my natural surroundings and identifying patterns to solve my imaginary problems in play.
 
 Fast forward to 2013, I began a career in solving real world problems with pattern detection of cognitive agents used for math education in Pittsburgh. After conferring my masters in child psychology, I naturally transitioned to a Ph.D. in school psychology. While practicing, I noticed critical inefficiencies and inequities of modern psychoeducational measurement. To pursue this research with aligned support, I connected with Jonathan Templin, Ph.D., a globally-respected scholar in quantitative methods for measurement, and consequently transferred to Iowa.
