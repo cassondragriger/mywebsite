@@ -25,7 +25,7 @@ website:
         href: https://discordapp.com/users/UserID725207317007695912
   page-footer:
     right: "Built with [Quarto](https://quarto.org/) using the lux theme and adapted from this [tutorial](https://github.com/jtr13/website-template). All blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). All opinions and views are my own and do not represent my employer."
-    # left: "&copy; Copyright 2025, Cassondra Griger"
+     left: "&copy; Copyright 2025, Cassondra Griger"
 
 format:
   html:
